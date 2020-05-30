@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This tags and uploads an image to Docker Hub
+# This tags and uploads an image to Docker H
 
 # Step 1:
 # This is your Docker ID

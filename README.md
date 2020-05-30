@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/adamsteff/udacity-asteff-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/adamsteff/udacity-asteff-ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/mbiombani/udacity-microservice.svg?style=svg)](https://circleci.com/gh/mbiombani/microservice)
+
 
 ## Project Overview
 

@@ -7,15 +7,15 @@ In this project we had to operationalize a Machine Learning Microservice API whi
 
 
 ## Setup the Environment
-* Run `git clone https://github.com/adamsteff/udacity-asteff-ml-microservice-kubernetes.git`
-* Run `cd project-ml-microservice-kubernetes`
+* Run `git clone git@github.com:mbiombani/microservice.git`
+* Run `cd microservice`
 * Run `python3 -m venv ~/.devops`
 * Run `source ~/.devops/bin/activate`
 * Run `make install` to install the necessary dependencies
 
 ### Installing Docker
 * [Create docker account](https://hub.docker.com/)
-* Install the lastest [stable release](https://docs.docker.com/v17.12/install/)
+* Install the lastest [stable release]
 * Run `docker --version`
 
 ### Installing Kubernetes

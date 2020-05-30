@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env 
 
 PORT=8000
 echo "Port: $PORT"
